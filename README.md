@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @zton82005
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning React JS and React Native
+- 🌱 I’m currently learning React and Flutterflow
 - 💞️ I’m looking to collaborate with someone who will mentor me to be a good programmer.
+- Trying to build a world-changing app one day at a time... LOL!!!
 
 
 <!---
